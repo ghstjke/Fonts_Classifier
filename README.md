@@ -13,5 +13,6 @@ if you want to train your own model:
   3) Datagen for train and validation
   4) Tuning hyperparameters part1
   5) Tuning hyperparameters part2
+  6) Visualization
   
   else you can load weigths from file filename
