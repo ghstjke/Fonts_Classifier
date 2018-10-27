@@ -1,6 +1,7 @@
 # exc1
 font classifier
 If you want to use data generator:
+
   choose kernel == pyhton2 and launch cells below section data generator
 else you can skip these cells and use data from directory
 
