@@ -8,6 +8,7 @@ If you want to use data generator:
 else you can skip these cells and use data from directory
 
 if you want to train your own model:
+  -1) extract Synthetic_dataset into Synthetic_dataset
   0) choose kernel == pyhton3
   1) run Read data
   2) Model creating
