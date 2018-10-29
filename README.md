@@ -18,4 +18,4 @@ if you want to train your own model:
   6) Tuning hyperparameters part2
   7) Visualization
   
-  else you can load weigths from file filename
+  else you can load weigths from file model_topN_10_3
